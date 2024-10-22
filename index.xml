@@ -211,7 +211,7 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 <sub-article article-type="notebook" id="nb-3-nb-1">
 <front-stub>
 <title-group>
-<article-title>Prepare Test Data</article-title>
+<article-title>01 Prepare Test Data</article-title>
 </title-group>
 <contrib-group>
 <contrib contrib-type="author">
@@ -228,6 +228,37 @@ and Interchange DTD v1.2 20190208//EN" "JATS-archivearticle1.dtd">
 
 <body>
 <sec id="cell-96cd123b-e010-4778-9afa-9ca125ef50cc-nb-1" specific-use="notebook-content">
+<p>Text description</p>
+</sec>
+</body>
+
+
+
+<back>
+</back>
+
+
+</sub-article>
+<sub-article article-type="notebook" id="nb-6-nb-2">
+<front-stub>
+<title-group>
+<article-title>00 Project Overview</article-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<contrib-id contrib-id-type="orcid">0000-0002-5352-7215</contrib-id>
+<name>
+<surname>Lima</surname>
+<given-names>Ryan E</given-names>
+</name>
+<string-name>Ryan E Lima</string-name>
+
+</contrib>
+</contrib-group>
+</front-stub>
+
+<body>
+<sec id="cell-96cd123b-e010-4778-9afa-9ca125ef50cc-nb-2" specific-use="notebook-content">
 <p>Text description</p>
 </sec>
 </body>
